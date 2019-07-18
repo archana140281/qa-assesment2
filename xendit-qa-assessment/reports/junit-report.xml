@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/archanajain/code/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="0.000533164">
+        </testcase>
+        <testcase name="When I enter following values and do the subtraction" classname="test-online-calculator-scenarios;test-subtraction" time="0.000199784">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="0.000661307">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/archanajain/code/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="0.000111123">
+        </testcase>
+        <testcase name="When I enter following values and do the division" classname="test-online-calculator-scenarios;test-division" time="0.001006927">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="0.000113792">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-ce-button" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/archanajain/code/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-ce-button" time="0.00004225">
+        </testcase>
+        <testcase name="When I click CE button" classname="test-online-calculator-scenarios;test-ce-button" time="0.000048957">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-ce-button" time="0.000075215">
+        </testcase>
+    </testsuite>
+</testsuites>
